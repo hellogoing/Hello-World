@@ -1,0 +1,125 @@
+<style type="text/css">
+div,ul,li,a,body,html,h5{
+   margin:0;
+   padding:0;
+}
+li{
+   list-style:none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+body{
+  color:#efeeed;
+}
+
+#top{
+		height: 50px;	
+		background-color: #007799;
+		color: FFFFFF;
+	}
+.picture{
+	width: 780px;
+	height: 200px;
+	margin: 0 auto;
+
+}
+.center{
+	    width: 780px;
+	    height: 60px;
+	    background-color: #33CCFF;  
+	    margin: 0 auto;
+	}
+
+.center ul{
+  height: 35px;
+  width: 720px;
+  margin:0 auto; 
+
+
+}
+.center ul li{
+  height: 35px;
+  line-height: 35px;
+  float: left;
+  width: 120px;
+  text-align: center;
+  font-family: arial;
+}
+.center ul li:hover{
+   background-color: #3c98c9;
+}
+.clearfix{
+  clear:both;
+} 
+.nav-btm{
+  background: url(../images/nav-btm.jpg) repeat-x;
+  height: 15px;
+  width: 780px;
+  margin: 0 auto;
+}
+.main{
+  width: 780px;
+  height: 400px;
+  background-color:white;
+  margin: 0 auto; 
+}
+.col1{
+  height: 400px;
+  width: 289px;
+  float: left;
+  margin-right: 4px;
+}
+.col1-1{
+  height: 203px;
+  width: 289px;
+}
+.col1-1 h5{
+  background: url(../images/col1-1-h.jpg) no-repeat;
+  width: 289px;
+  height: 23px;
+  line-height: 23px;
+  text-indent:25px;
+}
+.tpxw{
+  width: 289px;
+  height: 160px;
+  margin: 5px auto 0;
+}
+.col1-2{
+  height: 197px;
+  width: 289px;
+  color: black;
+}
+.col1-2 h5{
+  background: url(../images/col1-2-h.jpg) no-repeat;
+  width: 289px;
+  height: 23px;
+}
+.col1-2 h5 span{
+  position: relative;
+  left:243px;
+  line-height: 23px;
+  font-size: 12px;
+}
+.col1-2 h5 span a:hover{
+  color: black;
+}
+.col1-2 ul li {
+  font-size: 12px;
+  font-family: arial;
+  line-height: 25px;
+  height: 25px;
+  text-indent: 27px;
+  background: url(../images/li-log.jpg) no-repeat 10px center;
+}
+.col1-2 ul li a {
+  color: black;
+}
+.col1-2 ul li a:hover {
+  color: red;
+    text-decoration: underline;
+}
+
+	</style>	
