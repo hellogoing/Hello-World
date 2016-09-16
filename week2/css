@@ -1,0 +1,66 @@
+ <style type="text/css">    
+
+h1{
+   color: #191970;
+    font-size: 2em;
+     margin: .67em 0;
+     font-family: simsun;
+    font-weight: bold;
+    color: #006986;
+    font-size: 50px;
+      text-shadow: 1px 1px 0px #006986;
+      
+}
+small{
+  
+   font-size: 80%;
+   font-size: 16px;
+    font-family: "Times New Roman";
+    text-transform: uppercase;
+    color: #006986;
+}
+.center{
+height: 35px;
+margin: 0 auto;
+  background-color: #191970;
+}
+a:link {
+color:#A9A9A9;
+text-decoration:underline;
+}
+
+  a:hover {
+color:#A9A9A9;
+text-decoration:none;
+}
+.one{
+float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 300px;
+border: 0px ;
+} 
+.list-date {display: none;
+}
+h2{
+  margin-left: 100px;
+}
+.two{
+  float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 300px;
+border: 0px ;
+}
+.three
+{
+   float: left;
+margin: 5px;
+padding: 15px;
+width: 300px;
+height: 300px;
+border: 0px ;
+}
+</style>
